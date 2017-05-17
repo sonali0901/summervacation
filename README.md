@@ -1,2 +1,3 @@
 # summervacation
-solutions to some hackerearth practice problems.
+Solutions to some hackerearth practice problems.
+
